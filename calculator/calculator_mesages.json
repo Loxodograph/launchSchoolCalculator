@@ -1,0 +1,28 @@
+{
+  "en": {
+    "welcome": "Welcome to Calculator!",
+    "invalidNumber": "Hmm... that doesn't look like a valid number",
+    "firstNumber": "What's the first number?",
+    "secondNumber": "What is the second number?",
+    "operationRequest": "What operation would you like to perform? \n1) Add 2) Subtract 3) Multiply 4) Divide",
+    "invalidOperation": "Must choose 1, 2, 3, or 4",
+    "outputResult": "The result is:",
+    "newCalculation": "Would you like to start a new calculation? y/n",
+    "goodbye": "Thank You, Goodbye",
+    "languageChoice": "Choose your language. en/pt",
+    "invalidLanguage": "Choose en or pt"
+  },
+    "pt": {
+      "welcome": "Bem-vindo à Calculadora!",
+      "invalidNumber": "Hmm... isso não parece um número válido",
+      "firstNumber": "Qual é o primeiro número?",
+      "secondNumber": "Qual é o segundo número?",
+      "operationRequest": "Que operação você gostaria de realizar? \n1) Adicionar 2) Subtrair 3) Multiplicar 4) Dividir",
+      "invalidOperation": "Deve escolher 1, 2, 3 ou 4",
+      "outputResult": "O resultado é:",
+      "newCalculation": "Gostaria de iniciar um novo cálculo? s/n",
+      "goodbye": "Obrigado, adeus",
+      "languageChoice": "Eschole seu idioma. en/pt",
+      "invalidLanguage": "Eschole en ou pt"
+    }
+}
